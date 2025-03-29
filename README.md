@@ -1,6 +1,6 @@
 # sydrandria
 
-A fork of a novel artificial personality.
+A novel artificial personality embedded into hardware.
 
 ## Background
 
